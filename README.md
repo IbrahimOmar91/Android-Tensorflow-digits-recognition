@@ -5,6 +5,10 @@ An Android app to recognize your hand-writen digits
 In this project, I will create a simple convolutional neural network [CNN] to classify handwriting digits using MNIST dataset using TensorFlow<br>
 The main goal is to deploy this network to android app using TFLite
 
+## Releases:
+Download The APK file:
+- [Version 1.0](https://github.com/IbrahimOmar91/Android-Tensorflow-digits-recognition/releases/download/v1.0/TFLiteHandWriting.apk "Version 1.0") 
+
 ## Requirements:
 - Python 3
 - Tensorflow v2 (I used v2.1.0)
