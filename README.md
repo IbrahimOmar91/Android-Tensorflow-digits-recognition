@@ -13,6 +13,9 @@ The main goal is to deploy this network to android app using TFLite
 ## CNN Model:
 <img src="Imgs/model.png"/>
 
+## Training Process:
+<img src="Imgs/training.png"/>
+
 ## How to use:
 Just build the App in android studio, when it runs write whatever you want.
 
