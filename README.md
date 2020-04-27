@@ -1,5 +1,5 @@
 # Android Tensorflow Digits Recognition
-An Android app to recognize *your* hand-writen digits
+An Android app to recognize **YOUR** hand-writen digits
 
 ## Overview:
 In this project, I will create a simple convolutional neural network [CNN] to classify handwriting digits using MNIST dataset using TensorFlow<br>
