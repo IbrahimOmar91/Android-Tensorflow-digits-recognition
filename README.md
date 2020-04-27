@@ -8,7 +8,7 @@ The main goal is to deploy this network to android app using TFLite
 ## Requirements:
 - Python 3
 - Tensorflow v2 (I used v2.1.0)
-- Android Studio (I used the latest v3.6.3)
+- Android Studio (I used v3.6.3 with SDK: 29)
 
 ## CNN Model:
 <img src="Imgs/model.png"/>
