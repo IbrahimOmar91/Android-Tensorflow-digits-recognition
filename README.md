@@ -20,3 +20,11 @@ Just build the App in android studio, when it runs write whatever you want.
 ## Used Resources:
 - Paint: I used this awesome tutorial https://www.youtube.com/watch?v=VbtMk0iPZgk
 - Visualized results: The famous MPAndroidChart https://github.com/PhilJay/MPAndroidChart
+
+## Find Me
+| | |
+|----------|-------|
+|Mail:     |ibrahimomar357@gmail.com |
+|GitHub:   |https://github.com/IbrahimOmar91 |
+|LinkedIn: |https://www.linkedin.com/in/ibrahimomar91/ |
+|Facebook: |https://www.facebook.com/IbrahimM.Omar91 |
