@@ -1,17 +1,27 @@
 # Android Tensorflow Digits Recognition
 An Android app to recognize your hand-writen digits
 
+## Overview:
+In this project, I will create a simple convolutional neural network [CNN] to classify handwriting digits using MNIST dataset using TensorFlow<br>
+The main goal is to deploy this network to android app using TFLite
+
+## Requirements:
+- Python 3
+- Tensorflow v2 (I used v2.1.0)
+- Android Studio (I used the latest v3.6.3)
+
 ## How to use:
 Just build the App in android studio, when it runs write whatever you want.
 
-## Some Straightforward inputs:
+## Results
+### Some Straightforward inputs:
 <img src="Imgs/Screenshot_1587972463.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972493.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972500.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972507.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972546.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972561.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972573.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972586.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972591.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972607.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972612.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972618.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972623.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972635.png" alt="drawing" width="300"/>
 
-## Some Confusing inputs:
+### Some Confusing inputs:
 <img src="Imgs/Screenshot_1587972665.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972684.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972697.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972710.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972734.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972798.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972806.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972820.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972830.png" alt="drawing" width="300"/>
