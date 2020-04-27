@@ -10,6 +10,9 @@ The main goal is to deploy this network to android app using TFLite
 - Tensorflow v2 (I used v2.1.0)
 - Android Studio (I used the latest v3.6.3)
 
+## CNN Model:
+<img src="Imgs/model.png"/>
+
 ## How to use:
 Just build the App in android studio, when it runs write whatever you want.
 
