@@ -2,7 +2,7 @@
 An Android app to recognize your hand-writen digits
 
 ## Some Straightforward inputs:
-<img src="Imgs/Screenshot_1587972463.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972493.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972500.png" alt="drawing" width="250"/>
+<img src="Imgs/Screenshot_1587972463.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972493.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972500.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972507.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972546.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972561.png" alt="drawing" width="250"/>
 <img src="Imgs/Screenshot_1587972573.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972586.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972591.png" alt="drawing" width="250"/>
 <img src="Imgs/Screenshot_1587972607.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972612.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972618.png" alt="drawing" width="250"/>
