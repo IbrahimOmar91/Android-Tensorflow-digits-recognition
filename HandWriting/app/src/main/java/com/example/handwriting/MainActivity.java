@@ -39,6 +39,23 @@ import java.util.ArrayList;
 
 //import android.support.v7.app.AppCompatActivity;
 
+// Resources:
+/*
+ * This app is using exciting drawing view from this link:
+ * https://www.youtube.com/watch?v=VbtMk0iPZgk
+ *
+ * For showing the results i used:
+ * https://github.com/PhilJay/MPAndroidChart
+ */
+
+// Find Me
+/*
+ * Mail:     ibrahimomar357@gmail.com
+ * GitHub:   https://github.com/IbrahimOmar91
+ * LinkedIn: https://www.linkedin.com/in/ibrahimomar91/
+ * Facebook: https://www.facebook.com/IbrahimM.Omar91
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private PaintView paintView;
