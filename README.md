@@ -16,3 +16,7 @@ Just build the App in android studio, when it runs write whatever you want.
 <img src="Imgs/Screenshot_1587972710.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972734.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972798.png" alt="drawing" width="250"/>
 <img src="Imgs/Screenshot_1587972806.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972820.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972830.png" alt="drawing" width="250"/>
 <img src="Imgs/Screenshot_1587972836.png" alt="drawing" width="250"/>
+
+## Used Resources:
+- Paint: I used this awesome tutorial https://www.youtube.com/watch?v=VbtMk0iPZgk
+- Visualized results: The famous MPAndroidChart https://github.com/PhilJay/MPAndroidChart
