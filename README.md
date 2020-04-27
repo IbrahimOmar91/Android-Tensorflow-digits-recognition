@@ -1,6 +1,9 @@
 # Android Tensorflow Digits Recognition
 An Android app to recognize your hand-writen digits
 
+## How to use:
+Just build the App in android studio, when it runs write whatever you want.
+
 ## Some Straightforward inputs:
 <img src="Imgs/Screenshot_1587972463.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972493.png" alt="drawing" width="300"/> <img src="Imgs/Screenshot_1587972500.png" alt="drawing" width="300"/>
 <img src="Imgs/Screenshot_1587972507.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972546.png" alt="drawing" width="250"/> <img src="Imgs/Screenshot_1587972561.png" alt="drawing" width="250"/>
