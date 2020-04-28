@@ -1,7 +1,7 @@
 # Android Tensorflow Digits Recognition
 An Android app to recognize **YOUR** hand-writen digits
 
-# Table of Contents
+# Contents:
 - [Overview](#overview)
 - [Releases](#releases)
 - [Requirements](#requirements)
