@@ -49,7 +49,7 @@ Just build the App in android studio, when it runs write whatever you want.
 <img src="Imgs/Screenshot_1587972836.png" alt="drawing" width="300"/>
 
 ## Used Resources: <a name="resourses"></a>
-- Paint: I used this awesome tutorial https://www.youtube.com/watch?v=VbtMk0iPZgk
+- Paint: I used this awesome tutorial https://www.youtube.com/watch?v=uJGcmGXaQ0o
 - Visualized results: The famous MPAndroidChart https://github.com/PhilJay/MPAndroidChart
 
 ## Find Me: <a name="findMe"></a>
