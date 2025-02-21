@@ -58,4 +58,3 @@ Just build the App in android studio, when it runs write whatever you want.
 |Mail:     |ibrahimomar357@gmail.com |
 |GitHub:   |https://github.com/IbrahimOmar91 |
 |LinkedIn: |https://www.linkedin.com/in/ibrahimomar91/ |
-|Facebook: |https://www.facebook.com/IbrahimM.Omar91 |
